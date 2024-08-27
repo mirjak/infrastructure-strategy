@@ -73,7 +73,7 @@ As the IETF services evolve, they are becoming more integrated and more interdep
 
 The IETF requires comprehensive, standards-based service monitoring, which means:
 
-• Every part of the infrastructure is instrumented.
-• Centralised collection of monitoring data to enable cross-service analysis.
-• Controlled publication of monitoring data that maintains operational security while providing maximum access to the IETF community.
-• Where possible, standards based data collection and distribution, and where proprietary APIs need to be used then these must be open and documented APIs.
+* Every part of the infrastructure is instrumented.
+* Centralised collection of monitoring data to enable cross-service analysis.
+* Controlled publication of monitoring data that maintains operational security while providing maximum access to the IETF community.
+* Where possible, standards based data collection and distribution, and where proprietary APIs need to be used then these must be open and documented APIs.
