@@ -4,3 +4,5 @@ This repository is the authoritative source for the [strategy](https://github.co
 This strategy was then incorporated into an [RFI](https://www.ietf.org/media/documents/IETF_Infrastructure_Services_RFI.pdf) and an [RFP](https://www.ietf.org/media/documents/IETF_RFP_-_Infrastructure_Services.pdf)
 
 Any proposed changes to this strategy should be taken to the tools-discuss list.
+
+(NOTE: This respository was reconstructed after the original was inadvertently deleted and so some text may not 100% align with that used in the RFP).
