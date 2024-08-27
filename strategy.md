@@ -22,8 +22,8 @@ The IETF requires its IT infrastructure to support a fit-for-purpose service ava
 * Minimal unplanned downtime.
 * Infrastructure designed to eliminate planned downtime, recognising that some of the applications may still require that. 
 * Where planned downtime is required, then:
-  * It must not be during or during the preparation phase of IETF meetings or other key events..
-	* Should be able to be scheduled for any day of the week at any time, to meet IETF operational requirements.
+  * It must not be during or during the preparation phase of IETF meetings or other key events.
+  * Should be able to be scheduled for any day of the week at any time, to meet IETF operational requirements.
 
 ## Fit-for-purpose service performance
 The demands on IETF services varies considerably with particular peaks in and around IETF meetings.  Also, there are a number of services intended for users to pull large amounts of data (1-10 GB) in order to maintain local copies of large datasets. While service performance can be adversely affected by a bottleneck at a level of the stack above the IT infrastructure, the IT infrastructure should not become the bottleneck.
